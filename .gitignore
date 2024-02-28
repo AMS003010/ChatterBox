@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+abhi.crt
+abhi.key
+abhi.csr
+abhi.pem
+.rnd
+openssl.cnf
+
 # C extensions
 *.so
 
